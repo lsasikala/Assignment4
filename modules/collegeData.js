@@ -105,18 +105,18 @@ module.exports.getStudentsByCourse = function (course) {
 
 module.exports.addStudent = function(studentData) {
     return new Promise((resolve, reject) => {
-        if (!studentData) {
+        if (!studentData) {                          //Check for student data
           reject("Student data is required.");
           return;
         }
     
-        // Set TA to false if it's undefined
-        studentData.TA = studentData.TA || false;
+        
+        studentData.TA = studentData.TA || false;   // Set TA to false if it's undefined
     
-        // Set studentNum to the next available number
-        studentData.studentNum = dataCollection.students.length + 1;
+        
+        studentData.studentNum = dataCollection.students.length + 1;  // Set studentNum to the next available number
     
-        dataCollection.students.push(studentData);
+        dataCollection.students.push(studentData);      //Pushing the student data to the dataCollection.students array.
     
         resolve(studentData);
 });

@@ -108,12 +108,12 @@ app.get("/students/add", (req, res) => {
 app.post("/students/add", (req, res) => {
     const studentData = req.body;
   
-    collegeData.addStudent(studentData)
+    collegeData.addStudent(studentData)     //Calling addStudent function from collegeData module to add the student
       .then(() => {
-        res.redirect("/students");
+        res.redirect("/students");         //If successfully added, redirect to the /students page
       })
       .catch((err) => {
-        res.status(500).json({ error: err });
+        res.status(500).json({ error: err });  //If not, dispaly the error message.
       });
   });
 app.use((req,res) =>{

@@ -17,24 +17,25 @@ body,html {
 }
 body {
     font-family: 'Bacasime Antique', serif;
-    color: #0f5ae6;
+    color: blue
+    ;
 }
 
 
 .navbar.bg-light {
   background: linear-gradient(to bottom, lightblue, plum);
-  box-shadow: 10px 5px 10px rgba(207, 20, 20, 0.5);
+  box-shadow: 10px 5px 10px violet;
 }
 
 .navbar-light .navbar-brand {
     font-family: 'Fasthand', cursive;;
-    color: rgb(112, 23, 196);
+    color: rgba(red, green, blue, alpha);
     text-shadow: 10px 2px 40px rgba(232, 64, 64, 0.2);
 }
 
 .nav-link {
     font-family: 'Fasthand', cursive;
-    color: #4b08f5
+    color: blueviolet
 
 }
 
@@ -44,15 +45,15 @@ body {
 
 
 .btn-primary {
-    background-color: #007bff;
-    background-image: linear-gradient(to bottom, #007bff, #0062cc);
+    background-color: #e1ccd9;
+    background-image: linear-gradient(to bottom, blue, pink);
     box-shadow: 0 0.5rem 1rem rgba(0, 123, 255, 0.2);
     color: #fff;
   }
   
   .btn-primary:hover {
     background-color: #ed31ae;
-    background-image: linear-gradient(to bottom, #0069d9, #005cbf);
+    background-image: linear-gradient(to bottom,  green,gold);
     box-shadow: 0 0.5rem 1rem rgba(0, 105, 217, 0.2);
   }
 
