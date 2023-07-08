@@ -63,25 +63,23 @@ body {
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fasthand', cursive;; /* Replace 'Your Desired Font' with the font name you want to use from Google Fonts */
-    color: #dd2121f9; /* Replace #333333 with your desired text color */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adjust the values as per your preference */
+    font-family: 'Fasthand', cursive;
+    color: #dd2121f9; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
   }
 
   a {
-    color: #a210e6; /* Replace #333333 with your desired text color */
-    /* Additional styles for anchor elements */
+    color: #a210e6; 
   }
   
   a:hover {
-    color: #074707; /* Replace #FF0000 with your desired hover text color */
-    /* Additional styles for anchor elements when hovered */
+    color: #074707; 
   }
   fieldset legend {
-    padding: 10px 0; /* Adjust the top and bottom padding as needed */
+    padding: 10px 0; 
     
     font-family: 'Fira Sans Condensed', sans-serif;
-    color: #584eef; /* Replace #333333 with your desired text color */
-    text-shadow: 12px 12px 12px rgba(123, 0, 234, 0.5); /* Adjust the shadow values as needed */
-    /* Additional styles for fieldset legends */
+    color: #584eef; 
+    text-shadow: 12px 12px 12px rgba(123, 0, 234, 0.5); 
+    
   }

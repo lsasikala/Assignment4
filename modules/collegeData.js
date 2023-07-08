@@ -102,7 +102,18 @@ module.exports.getStudentsByCourse = function (course) {
         resolve(filteredStudents);
     });
 };
-
+function writeData() {
+    return new Promise((resolve, reject) => {
+        const studentData = JSON.stringify(dataCollection.students, null, 2);
+        fs.writeFile('./data/students.json', studentData, 'utf8', (err) => {
+            if (err) {
+                reject(err);
+                return;
+            }
+            resolve();
+        });
+    });
+}
 module.exports.addStudent = function(studentData) {
     return new Promise((resolve, reject) => {
         if (!studentData) {                          //Check for student data
@@ -117,7 +128,11 @@ module.exports.addStudent = function(studentData) {
         studentData.studentNum = dataCollection.students.length + 1;  // Set studentNum to the next available number
     
         dataCollection.students.push(studentData);      //Pushing the student data to the dataCollection.students array.
+        writeData()
+            .then(() => {
+                resolve(studentData);
+            })
     
-        resolve(studentData);
+        //resolve(studentData);
 });
 }

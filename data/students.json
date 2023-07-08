@@ -319,7 +319,6 @@
     "addressStreet": "85 Kensington Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": true,
     "status": "Full Time",
     "course": 6
@@ -332,7 +331,6 @@
     "addressStreet": "229 Sycamore Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": true,
     "status": "Full Time",
     "course": 4
@@ -345,7 +343,6 @@
     "addressStreet": "7 Swallow Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": true,
     "status": "Full Time",
     "course": 2
@@ -358,7 +355,6 @@
     "addressStreet": "8 Grim Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": true,
     "status": "Full Time",
     "course": 3
@@ -371,7 +367,6 @@
     "addressStreet": "449 Upham Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -384,7 +379,6 @@
     "addressStreet": "1 Duke Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -397,7 +391,6 @@
     "addressStreet": "92437 Fremont Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -410,7 +403,6 @@
     "addressStreet": "9053 Reinke Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -423,7 +415,6 @@
     "addressStreet": "3559 School Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -436,7 +427,6 @@
     "addressStreet": "4 Pawling Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -449,7 +439,6 @@
     "addressStreet": "017 Forster Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -462,7 +451,6 @@
     "addressStreet": "9772 Cody Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -475,7 +463,6 @@
     "addressStreet": "555 Kim Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -488,7 +475,6 @@
     "addressStreet": "77039 Anhalt Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -501,7 +487,6 @@
     "addressStreet": "4 Donald Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -514,7 +499,6 @@
     "addressStreet": "59 Jana Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -527,7 +511,6 @@
     "addressStreet": "3876 Hoard Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -540,7 +523,6 @@
     "addressStreet": "83 Leroy Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -553,7 +535,6 @@
     "addressStreet": "85 Amoth Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -566,7 +547,6 @@
     "addressStreet": "5522 Cody Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -579,7 +559,6 @@
     "addressStreet": "759 Westridge Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -592,7 +571,6 @@
     "addressStreet": "0857 Sunnyside Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -605,7 +583,6 @@
     "addressStreet": "5587 Harper Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -618,7 +595,6 @@
     "addressStreet": "395 Rusk Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -631,7 +607,6 @@
     "addressStreet": "10541 Florence Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -644,7 +619,6 @@
     "addressStreet": "9 Delladonna Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -657,7 +631,6 @@
     "addressStreet": "472 Esch Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -670,7 +643,6 @@
     "addressStreet": "9300 Veith Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -683,7 +655,6 @@
     "addressStreet": "08 Karstens Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -696,7 +667,6 @@
     "addressStreet": "02 Scofield Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -709,7 +679,6 @@
     "addressStreet": "079 Northwestern Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -722,7 +691,6 @@
     "addressStreet": "54 Moose Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -735,7 +703,6 @@
     "addressStreet": "750 Sutteridge Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -748,7 +715,6 @@
     "addressStreet": "8360 Lerdahl Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -761,7 +727,6 @@
     "addressStreet": "885 Sommers Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -774,7 +739,6 @@
     "addressStreet": "68665 Fieldstone Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -787,7 +751,6 @@
     "addressStreet": "4333 Corben Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -800,7 +763,6 @@
     "addressStreet": "2 Schurz Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -813,7 +775,6 @@
     "addressStreet": "8739 International Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -826,7 +787,6 @@
     "addressStreet": "581 Fremont Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -839,7 +799,6 @@
     "addressStreet": "45 Crest Line Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -852,7 +811,6 @@
     "addressStreet": "9 Mosinee Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -865,7 +823,6 @@
     "addressStreet": "941 Union Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -878,7 +835,6 @@
     "addressStreet": "4497 Lunder Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -891,7 +847,6 @@
     "addressStreet": "74 Thierer Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -904,7 +859,6 @@
     "addressStreet": "2423 Kropf Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -917,7 +871,6 @@
     "addressStreet": "137 Lien Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -930,7 +883,6 @@
     "addressStreet": "79355 Becker Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -943,7 +895,6 @@
     "addressStreet": "68073 La Follette Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -956,7 +907,6 @@
     "addressStreet": "3 Jay Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -969,7 +919,6 @@
     "addressStreet": "83225 Dennis Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -982,7 +931,6 @@
     "addressStreet": "1 Rowland Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -995,7 +943,6 @@
     "addressStreet": "1929 Autumn Leaf Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -1008,7 +955,6 @@
     "addressStreet": "151 Pearson Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -1021,7 +967,6 @@
     "addressStreet": "808 Morrow Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -1034,7 +979,6 @@
     "addressStreet": "45 Coleman Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -1047,7 +991,6 @@
     "addressStreet": "4 Vahlen Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -1060,7 +1003,6 @@
     "addressStreet": "6 Grover Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -1073,7 +1015,6 @@
     "addressStreet": "8210 Center Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1086,7 +1027,6 @@
     "addressStreet": "5 Milwaukee Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1099,7 +1039,6 @@
     "addressStreet": "2798 Blue Bill Park Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -1112,7 +1051,6 @@
     "addressStreet": "91537 Beilfuss Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -1125,7 +1063,6 @@
     "addressStreet": "210 Carpenter Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -1138,7 +1075,6 @@
     "addressStreet": "77 Portage Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -1151,7 +1087,6 @@
     "addressStreet": "32894 Steensland Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1164,7 +1099,6 @@
     "addressStreet": "68 Wayridge Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -1177,7 +1111,6 @@
     "addressStreet": "8372 Trailsway Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -1190,7 +1123,6 @@
     "addressStreet": "1604 Coleman Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -1203,7 +1135,6 @@
     "addressStreet": "42 Pierstorff Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -1216,7 +1147,6 @@
     "addressStreet": "17 Declaration Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1229,7 +1159,6 @@
     "addressStreet": "9908 Aberg Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -1242,7 +1171,6 @@
     "addressStreet": "248 Mayer Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -1255,7 +1183,6 @@
     "addressStreet": "28 Fair Oaks Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -1268,7 +1195,6 @@
     "addressStreet": "320 Macpherson Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -1281,7 +1207,6 @@
     "addressStreet": "9863 Lerdahl Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -1294,7 +1219,6 @@
     "addressStreet": "2 Sloan Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -1307,7 +1231,6 @@
     "addressStreet": "722 Autumn Leaf Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -1320,7 +1243,6 @@
     "addressStreet": "5 Reindahl Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -1333,7 +1255,6 @@
     "addressStreet": "7 Huxley Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1346,7 +1267,6 @@
     "addressStreet": "1713 Shoshone Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -1359,7 +1279,6 @@
     "addressStreet": "7 Mayfield Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1372,7 +1291,6 @@
     "addressStreet": "0 Del Mar Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -1385,7 +1303,6 @@
     "addressStreet": "435 2nd Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1398,7 +1315,6 @@
     "addressStreet": "5819 Dawn Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1411,7 +1327,6 @@
     "addressStreet": "7865 6th Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -1424,7 +1339,6 @@
     "addressStreet": "3 Fairfield Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1437,7 +1351,6 @@
     "addressStreet": "7628 Novick Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -1450,7 +1363,6 @@
     "addressStreet": "0080 Troy Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1463,7 +1375,6 @@
     "addressStreet": "379 Redwing Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1476,7 +1387,6 @@
     "addressStreet": "70077 Southridge Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -1489,7 +1399,6 @@
     "addressStreet": "189 Loeprich Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -1502,7 +1411,6 @@
     "addressStreet": "4816 Manley Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -1515,7 +1423,6 @@
     "addressStreet": "575 East Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -1528,7 +1435,6 @@
     "addressStreet": "0599 Mandrake Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1541,7 +1447,6 @@
     "addressStreet": "47314 Maryland Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1554,7 +1459,6 @@
     "addressStreet": "8191 Pepper Wood Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1567,7 +1471,6 @@
     "addressStreet": "8 Northland Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1580,7 +1483,6 @@
     "addressStreet": "7 Katie Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -1593,7 +1495,6 @@
     "addressStreet": "46675 Monterey Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -1606,7 +1507,6 @@
     "addressStreet": "2549 Weeping Birch Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1619,7 +1519,6 @@
     "addressStreet": "1744 Mayfield Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -1632,7 +1531,6 @@
     "addressStreet": "4165 Shoshone Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -1645,7 +1543,6 @@
     "addressStreet": "781 Clove Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1658,7 +1555,6 @@
     "addressStreet": "9049 Everett Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1671,7 +1567,6 @@
     "addressStreet": "2461 Hoard Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -1684,7 +1579,6 @@
     "addressStreet": "08366 Waubesa Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -1697,7 +1591,6 @@
     "addressStreet": "15809 Crowley Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -1710,7 +1603,6 @@
     "addressStreet": "36969 Service Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -1723,7 +1615,6 @@
     "addressStreet": "06879 Nevada Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -1736,7 +1627,6 @@
     "addressStreet": "5093 Blaine Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1749,7 +1639,6 @@
     "addressStreet": "37 Florence Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -1762,7 +1651,6 @@
     "addressStreet": "07 5th Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -1775,7 +1663,6 @@
     "addressStreet": "4 Autumn Leaf Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1788,7 +1675,6 @@
     "addressStreet": "38 Rowland Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -1801,7 +1687,6 @@
     "addressStreet": "94 Dixon Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -1814,7 +1699,6 @@
     "addressStreet": "78589 Hoard Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1827,7 +1711,6 @@
     "addressStreet": "3 Judy Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -1840,7 +1723,6 @@
     "addressStreet": "7699 Eagan Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -1853,7 +1735,6 @@
     "addressStreet": "93 Homewood Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -1866,7 +1747,6 @@
     "addressStreet": "2 Meadow Ridge Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -1879,7 +1759,6 @@
     "addressStreet": "78 Talmadge Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -1892,7 +1771,6 @@
     "addressStreet": "5093 Main Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -1905,7 +1783,6 @@
     "addressStreet": "2 Victoria Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -1918,7 +1795,6 @@
     "addressStreet": "36 Morning Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1931,7 +1807,6 @@
     "addressStreet": "2266 Ridgeway Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -1944,7 +1819,6 @@
     "addressStreet": "7 Lighthouse Bay Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -1957,7 +1831,6 @@
     "addressStreet": "4636 North Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -1970,7 +1843,6 @@
     "addressStreet": "8 Dahle Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -1983,7 +1855,6 @@
     "addressStreet": "1042 Cody Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -1996,7 +1867,6 @@
     "addressStreet": "1 Scoville Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -2009,7 +1879,6 @@
     "addressStreet": "5327 Londonderry Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -2022,7 +1891,6 @@
     "addressStreet": "186 School Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2035,7 +1903,6 @@
     "addressStreet": "78641 Fair Oaks Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -2048,7 +1915,6 @@
     "addressStreet": "59602 Blackbird Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2061,7 +1927,6 @@
     "addressStreet": "6686 Bartillon Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -2074,7 +1939,6 @@
     "addressStreet": "43173 Vahlen Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -2087,7 +1951,6 @@
     "addressStreet": "5595 Jackson Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2100,7 +1963,6 @@
     "addressStreet": "3247 Surrey Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -2113,7 +1975,6 @@
     "addressStreet": "0 Rieder Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2126,7 +1987,6 @@
     "addressStreet": "2 Pearson Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -2139,7 +1999,6 @@
     "addressStreet": "0099 High Crossing Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2152,7 +2011,6 @@
     "addressStreet": "9 Lillian Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2165,7 +2023,6 @@
     "addressStreet": "6313 Elka Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2178,7 +2035,6 @@
     "addressStreet": "474 Jenifer Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -2191,7 +2047,6 @@
     "addressStreet": "89991 Iowa Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -2204,7 +2059,6 @@
     "addressStreet": "4 Fisk Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2217,7 +2071,6 @@
     "addressStreet": "04413 Muir Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -2230,7 +2083,6 @@
     "addressStreet": "28829 Graedel Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2243,7 +2095,6 @@
     "addressStreet": "7250 Blackbird Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -2256,7 +2107,6 @@
     "addressStreet": "59635 Rowland Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -2269,7 +2119,6 @@
     "addressStreet": "68150 Schmedeman Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -2282,7 +2131,6 @@
     "addressStreet": "924 Loftsgordon Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -2295,7 +2143,6 @@
     "addressStreet": "6606 Sunbrook Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2308,7 +2155,6 @@
     "addressStreet": "5153 Golf Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -2321,7 +2167,6 @@
     "addressStreet": "8 Clyde Gallagher Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2334,7 +2179,6 @@
     "addressStreet": "699 Westerfield Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -2347,7 +2191,6 @@
     "addressStreet": "51 Karstens Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -2360,7 +2203,6 @@
     "addressStreet": "47923 Melvin Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -2373,7 +2215,6 @@
     "addressStreet": "1523 Gina Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -2386,7 +2227,6 @@
     "addressStreet": "46 Ludington Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -2399,7 +2239,6 @@
     "addressStreet": "1 Michigan Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 2
@@ -2412,7 +2251,6 @@
     "addressStreet": "05162 Cottonwood Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -2425,7 +2263,6 @@
     "addressStreet": "63 Browning Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2438,7 +2275,6 @@
     "addressStreet": "6 Victoria Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2451,7 +2287,6 @@
     "addressStreet": "7 Huxley Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -2464,7 +2299,6 @@
     "addressStreet": "6 Buena Vista Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -2477,7 +2311,6 @@
     "addressStreet": "29160 Welch Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2490,7 +2323,6 @@
     "addressStreet": "53647 Mariners Cove Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2503,7 +2335,6 @@
     "addressStreet": "18 Mayfield Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2516,7 +2347,6 @@
     "addressStreet": "4 Warrior Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2529,7 +2359,6 @@
     "addressStreet": "8175 Dunning Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -2542,7 +2371,6 @@
     "addressStreet": "166 Graedel Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2555,7 +2383,6 @@
     "addressStreet": "2811 Summit Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2568,7 +2395,6 @@
     "addressStreet": "40 Saint Paul Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2581,7 +2407,6 @@
     "addressStreet": "797 Orin Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -2594,7 +2419,6 @@
     "addressStreet": "08 David Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -2607,7 +2431,6 @@
     "addressStreet": "4 Crownhardt Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2620,7 +2443,6 @@
     "addressStreet": "272 La Follette Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 1
@@ -2633,7 +2455,6 @@
     "addressStreet": "1286 Jana Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2646,7 +2467,6 @@
     "addressStreet": "03 Lunder Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2659,7 +2479,6 @@
     "addressStreet": "6647 Memorial Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2672,7 +2491,6 @@
     "addressStreet": "98 Eagan Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2685,7 +2503,6 @@
     "addressStreet": "2050 Maple Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2698,7 +2515,6 @@
     "addressStreet": "09 Lerdahl Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2711,7 +2527,6 @@
     "addressStreet": "92 Old Gate Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -2724,7 +2539,6 @@
     "addressStreet": "1 Elka Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -2737,7 +2551,6 @@
     "addressStreet": "486 Mcguire Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2750,7 +2563,6 @@
     "addressStreet": "9 Mockingbird Point",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -2763,7 +2575,6 @@
     "addressStreet": "8 Larry Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -2776,7 +2587,6 @@
     "addressStreet": "0963 Corben Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -2789,7 +2599,6 @@
     "addressStreet": "8014 Washington Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -2802,7 +2611,6 @@
     "addressStreet": "3 Dixon Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2815,7 +2623,6 @@
     "addressStreet": "99288 Carberry Terrace",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -2828,7 +2635,6 @@
     "addressStreet": "346 Messerschmidt Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -2841,7 +2647,6 @@
     "addressStreet": "9 Amoth Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -2854,7 +2659,6 @@
     "addressStreet": "62 Oak Pass",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -2867,7 +2671,6 @@
     "addressStreet": "2354 Morningstar Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2880,7 +2683,6 @@
     "addressStreet": "7 Lakewood Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -2893,7 +2695,6 @@
     "addressStreet": "8 7th Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -2906,7 +2707,6 @@
     "addressStreet": "4 Schlimgen Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -2919,7 +2719,6 @@
     "addressStreet": "5753 Westridge Way",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -2932,7 +2731,6 @@
     "addressStreet": "91 Dovetail Lane",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2945,7 +2743,6 @@
     "addressStreet": "4798 Warbler Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -2958,7 +2755,6 @@
     "addressStreet": "0 Superior Court",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 7
@@ -2971,7 +2767,6 @@
     "addressStreet": "846 Eggendart Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 3
@@ -2984,7 +2779,6 @@
     "addressStreet": "2 3rd Street",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -2997,7 +2791,6 @@
     "addressStreet": "86 Little Fleur Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3010,7 +2803,6 @@
     "addressStreet": "13593 Beilfuss Circle",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3023,7 +2815,6 @@
     "addressStreet": "39 Gale Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
@@ -3036,7 +2827,6 @@
     "addressStreet": "20073 Crownhardt Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 5
@@ -3049,7 +2839,6 @@
     "addressStreet": "2 Vermont Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -3062,7 +2851,6 @@
     "addressStreet": "2 David Junction",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3075,7 +2863,6 @@
     "addressStreet": "640 Meadow Valley Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -3088,7 +2875,6 @@
     "addressStreet": "96633 Fieldstone Park",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -3101,7 +2887,6 @@
     "addressStreet": "05 Crescent Oaks Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -3114,7 +2899,6 @@
     "addressStreet": "2 Mayer Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -3127,7 +2911,6 @@
     "addressStreet": "7 Pierstorff Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3140,7 +2923,6 @@
     "addressStreet": "24232 Wayridge Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 6
@@ -3153,7 +2935,6 @@
     "addressStreet": "15060 Meadow Ridge Drive",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 4
@@ -3166,7 +2947,6 @@
     "addressStreet": "68 Johnson Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3179,7 +2959,6 @@
     "addressStreet": "74 High Crossing Avenue",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -3192,7 +2971,6 @@
     "addressStreet": "7 Debra Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -3205,7 +2983,6 @@
     "addressStreet": "7745 Sachs Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 7
@@ -3218,7 +2995,6 @@
     "addressStreet": "1 Alpine Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -3231,7 +3007,6 @@
     "addressStreet": "9708 Dixon Alley",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 1
@@ -3244,7 +3019,6 @@
     "addressStreet": "7865 Sullivan Center",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3257,7 +3031,6 @@
     "addressStreet": "16 Clemons Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -3270,7 +3043,6 @@
     "addressStreet": "729 Parkside Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 3
@@ -3283,7 +3055,6 @@
     "addressStreet": "3190 Fairfield Road",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3296,7 +3067,6 @@
     "addressStreet": "8557 Lindbergh Hill",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 4
@@ -3309,7 +3079,6 @@
     "addressStreet": "60 Kennedy Place",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -3322,7 +3091,6 @@
     "addressStreet": "920 Anthes Parkway",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Full Time",
     "course": 2
@@ -3335,7 +3103,6 @@
     "addressStreet": "8142 School Plaza",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 6
@@ -3348,9 +3115,28 @@
     "addressStreet": "0560 Di Loreto Crossing",
     "addressCity": "Toronto",
     "addressProvince": "ON",
-    
     "TA": false,
     "status": "Part Time",
     "course": 5
+  },
+  {
+    "firstName": "lavanya ",
+    "lastName": "sasikala",
+    "email": "lsasikala@seneca.ca",
+    "addressStreet": "436 elson street",
+    "addressCity": "markham",
+    "addressProvince": "on",
+    "TA": "on",
+    "studentNum": 261
+  },
+  {
+    "firstName": "reyan",
+    "lastName": "rahul",
+    "email": "rrahul@seneca.ca",
+    "addressStreet": "6 silverspruce",
+    "addressCity": "scarborough",
+    "addressProvince": "on",
+    "TA": "on",
+    "studentNum": 262
   }
 ]
